@@ -1,0 +1,8 @@
+{
+  "name": "ChildrenBook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "dad958c9"
+}
